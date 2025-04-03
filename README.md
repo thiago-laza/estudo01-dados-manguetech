@@ -85,9 +85,6 @@ Os erros foram categorizados em:
 ## **6. Considerações Finais**
 Este estudo forneceu insights valiosos sobre as dificuldades dos estudantes na resolução de problemas matemáticos. A combinação de técnicas estatísticas e de aprendizado de máquina permitiu identificar padrões de erros e agrupar os estudantes de forma eficiente, facilitando a criação de estratégias de ensino mais eficazes. 
 
-**Equipe Responsável:**  
-[Seu Nome/Equipe]  
-[Data]  
 
 --- 
 
